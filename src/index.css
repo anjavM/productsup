@@ -1,4 +1,22 @@
+
 h1.title {
   padding: 30px;
   text-align: center;
 }
+
+.pagination {
+  justify-content: center;
+}
+
+th {
+  font-size: 12px;
+}
+
+
+td {  
+  font-size: 12px;
+  overflow: hidden;
+  overflow-wrap: break-word;
+  text-overflow: ellipsis;
+}
+

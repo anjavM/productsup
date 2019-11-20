@@ -1,11 +1,10 @@
 import React from 'react';
-import Table from './Table';
+import ProductTable from './ProductTable';
 
 function App() {
   return (
-    <div className="App container">
-      <h1 className="title">ProductsUp Task</h1>
-      <Table />
+    <div className="App">
+      <ProductTable />
     </div>
   );
 }
